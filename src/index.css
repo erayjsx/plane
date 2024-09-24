@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  background-color: #f6f4f8;
+  font-family: "GT Walsheim Trial", sans-serif !important;
+}
+
+.input {
+  border-radius: 2rem !important;
+  padding: 1rem;
+  flex: 1;
+}
+
+.calendar-input-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.react-date-picker__wrapper {
+  display: flex;
+  cursor: pointer;
+  flex-direction: row-reverse; 
+  padding-right: 0.4rem;
+  padding-left: 0.8rem;
+  flex: 1;
+  border: none;
+  width: 100%;
+}
+
+.custom-calendar-icon {
+  margin-right: auto; 
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.react-calendar {
+  border-radius: 1rem;
+  border-color: #eee;
+  overflow: hidden;
+  margin-top: 0.8rem;
+  -webkit-box-shadow: 0px 16px 82px -45px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 16px 82px -45px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 16px 82px -45px rgba(0, 0, 0, 0.75);
+}
