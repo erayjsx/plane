@@ -1,46 +1,6 @@
 
 # PlaneScape
 
-A brief description of what this project does and who it's for
-
-
-
-
-
-
-## Tech Stack
-
-**Client:** React, Zustand, TailwindCSS, HeadlessUI
-
-**Server:** Node, Express
-
-
-## Run Locally
-
-Clone the project
-
-```bash
-git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-cd plane
-```
-
-Install dependencies
-
-```bash
-pnpm install
-```
-
-Start the project
-
-```bash
-pnpm dev
-# PlaneScape
-
 
 
 
@@ -114,41 +74,7 @@ password: 12345
 
 ![Home Screen](https://i.ibb.co/7R3pxdL/localhost-5173-1.png)
 
-![My Flight Screen](https://i.ibb.co/ZB5Y6Xm/localhost-5173-my-flights.png)
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
-```
-
-## Run Backend
-
-
-Go to the backend directory
-
-```bash
-cd plane-backend
-```
-
-Install dependencies
-
-```bash
-pnpm install
-```
-
-Start the server
-
-```bash
-nodemon app.mjs
-```
-
-
-## Screenshots
-
-![Home Screen](https://i.ibb.co/mSP3w4t/localhost-5173.png)
+![Login Screen](https://i.ibb.co/RHJxZg9/localhost-5173-2.png)
 
 ![My Flight Screen](https://i.ibb.co/ZB5Y6Xm/localhost-5173-my-flights.png)
 
